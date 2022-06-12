@@ -1,0 +1,7 @@
+#vs临时文件
+.vs
+bin
+test
+build
+temp
+lib
